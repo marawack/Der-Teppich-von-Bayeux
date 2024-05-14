@@ -13,7 +13,7 @@ Scroll along to find out
 ---
 
 
-## Why 
+## Die Einordnung des Teppichs 
 
 In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
 
@@ -27,7 +27,7 @@ This approach not only retains but celebrates the meandering nature of design as
 ---
 
 
-## What
+## Die filmische Abwicklung der Ereignisse
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
 
@@ -70,7 +70,7 @@ The template is in use to document the following [Interface Design](https://inte
 ---
 
 
-## How
+## Fingierte Augenzeugenschaft
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
 
